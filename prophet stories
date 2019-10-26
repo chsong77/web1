@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <title>Allah's Way</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+</head>
+<body>
+  <h1>Allah's Way</h1>
+  <ol>
+  <li>introduction 
+  <p>
+    <iframe src="https://www.youtube.com/embed/wpmvAo_qbBU"
+    frameborder="0" allowfullscreen></iframe>
+  </p>
+  </li>
+
+  <li>Arabic</li>
+  <p>
+    <iframe src="https://www.youtube.com/embed/23wo4x64Md0"
+    frameborder="0" allowfullscreen></iframe>
+  </p>
+
+  <h2>English</h2>
+  <p>
+    <iframe src="https://www.youtube.com/embed/dA2kBASOFhY"
+    frameborder="0" allowfullscreen></iframe>
+  </p>
+  </ol>
+
+</body>
+</html>
